@@ -1,2 +1,2 @@
-# singleGUIAutomations
+# SingleGUIAutomations
 YG - H.E.L.P
